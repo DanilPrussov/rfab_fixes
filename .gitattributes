@@ -1,0 +1,9 @@
+# Preserve original game files byte-for-byte; normalize only project docs/tools.
+* -text
+*.md text eol=lf
+*.py text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+fixes/**/payload/** -text
+fixes/**/src/** -text
+fixes/**/evidence/** -text
