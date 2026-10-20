@@ -1,0 +1,24 @@
+{
+  "result": "ok",
+  "source_sha256": "a5b03f58aeefeb806f7c4e44981d4f3ba0bc125419d488d3fcc7a896768d3401",
+  "patch_sha256": "640c860aca45858c89946ecc34a92a178022428f8d3e060ced1edc4a68d94994",
+  "masters": [
+    "Skyrim.esm",
+    "RFAB.esp"
+  ],
+  "override": "RFAB.esp:1124AF",
+  "records": 1,
+  "change": "CTDA IsHostileToActor(Skyrim.esm:000014) == 1; Run On Subject",
+  "game_test": "не выполнен",
+  "date": "2026-10-20",
+  "environment": "macOS arm64",
+  "dotnet_sdk": "10.0.402",
+  "mutagen": "0.54.4",
+  "python": "3.14.5",
+  "patch_bytes": 799,
+  "archive_path": "dist/0001-shock-nova-neutral-targets.zip",
+  "archive_sha256": "57d3cf1bd34896014d3914e6bb230f8a73069e25ce1b2fe8f43d625d1e375f09",
+  "tests_passed": 14,
+  "powershell_test": "Только проверка исходника; Windows PowerShell не запускался",
+  "xedit_test": "Не запускался"
+}

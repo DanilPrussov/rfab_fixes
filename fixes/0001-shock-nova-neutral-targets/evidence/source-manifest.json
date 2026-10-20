@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-20",
+  "environment": "macOS; исследование только чтением",
+  "profile": "Default",
+  "mo2_root": "/Users/danilprusov/Downloads/kazan/MO2",
+  "rfab_version": null,
+  "skyrim_runtime": null,
+  "skse_version": null,
+  "files": [
+    {
+      "source": "ModOrganizer.ini",
+      "bytes": 14512,
+      "sha256": "5dd0819fb4ef4b82e36980d2889216e0cb973a6b07f615cbaf05589301da3e5d"
+    },
+    {
+      "source": "profiles/Default/modlist.txt",
+      "bytes": 1486,
+      "sha256": "744d237b82482675c71aed2522b8c8211622d93ced5c7321e680aeab4f3ce9f8"
+    },
+    {
+      "source": "profiles/Default/plugins.txt",
+      "bytes": 711,
+      "sha256": "bfe2171267b8dce14e08d0bee96485ab7ef2e71072937aa94b8bd586a0eb2dad"
+    },
+    {
+      "source": "profiles/Default/loadorder.txt",
+      "bytes": 757,
+      "sha256": "a3a347a9af4e209a372a9ac6107efba99c576795e4ca7ff048bd64f4db1b0aa1"
+    },
+    {
+      "source": "mods/RFAB/meta.ini",
+      "bytes": 547,
+      "sha256": "f5d9966aa86fae3a17726bcaf1998b79706505501c291a1b6c729b5920e2d919"
+    },
+    {
+      "source": "mods/RFAB/RFAB.esp",
+      "bytes": 32285175,
+      "sha256": "a5b03f58aeefeb806f7c4e44981d4f3ba0bc125419d488d3fcc7a896768d3401"
+    },
+    {
+      "source": "mods/RFAB/scripts/RFAB_ElectricVortex_Script.pex",
+      "bytes": 1255,
+      "sha256": "096164f282829cb675bc8c7501d6f96e880ce65e1a2af213c0e6fc393e945c61"
+    },
+    {
+      "source": "mods/RFAB/scripts/source/RFAB_ElectricVortex_Script.psc",
+      "bytes": 625,
+      "sha256": "47020eda52aa2cbceb369d29bccee710de0705346abe092cd0fab7e2956afdfb"
+    },
+    {
+      "source": "mods/RFAB/SKSE/Plugins/[RFAB] DescriptionInjector.ini",
+      "bytes": 76086,
+      "sha256": "7c4410d7ae1615d86826afc750a7e003d17e54a161f5c5ed19a8399c908d4592"
+    }
+  ]
+}
